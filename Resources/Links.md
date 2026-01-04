@@ -1,6 +1,6 @@
 ##### [Delayed Durability](https://habr.com/ru/articles/303156/)
 ##### [CHECK CONSTRAINT](https://habr.com/ru/companies/infopulse/articles/263833/)
-##### []()
+##### [SQL Server Wait Types Library](https://www.sqlskills.com/help/waits/)
 ##### []()
 ##### []()
 ##### []()
